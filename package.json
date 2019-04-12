@@ -1,0 +1,12 @@
+{
+  "name": "header-clean",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A plugin for Apigee Edge Microgateway that strips bad characters from header values.",
+  "dependencies": {
+    "debug": "^2.2.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
